@@ -1,7 +1,20 @@
-# Analog Clock
+# Analoge Uhr
 
-**Author:** Masato Kuster  
-**Date:** 17.11.2025  
+*Eine voll funktionsfähige analoge Uhr, erstellt mit HTML, CSS und JavaScript.*
 
-This project is a fully functional analog clock built using HTML, CSS, and JavaScript.  
-The clock shows the current system time in real-time and updates every second.
+## Überblick
+Dieses Projekt zeigt eine **analoge Uhr**, die die aktuelle Realzeit anzeigt und sich jede Sekunde automatisch aktualisiert. Die Uhr wurde von **PantriMasi** entwickelt und ist komplett funktionsfähig.
+
+## Installation
+1. Repository herunterladen:
+git clone <Repository-URL>
+2. In das Projektverzeichnis wechseln:
+cd <Repository-Name>
+3. Öffne die Datei `index.html` direkt in deinem Browser.
+4. Die Uhr zeigt sofort die aktuelle Zeit an und aktualisiert sich jede Sekunde.
+
+## Beitrag leisten
+Beiträge sind willkommen. Du kannst **Issues erstellen**, Verbesserungsvorschläge machen oder **Pull Requests** einreichen, um neue Features oder Fehlerbehebungen hinzuzufügen. Achte dabei auf sauberen und verständlichen Code.
+
+## Lizenz & Credits
+Mitwirkender: **PantriMasi**.
